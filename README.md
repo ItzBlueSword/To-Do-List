@@ -29,4 +29,4 @@ To utilize the To-Do List application, please follow the instructions below:
 * The aesthetic 5K background image is sourced from **[4K Wallpapers](https://4kwallpapers.com/)**.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the [**MIT License**](https://choosealicense.com/licenses/mit/). See the [LICENSE](LICENSE) file for more details.
