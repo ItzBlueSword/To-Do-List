@@ -27,3 +27,6 @@ To utilize the To-Do List application, please follow the instructions below:
 ## Credits
 * Background image: [**4K Wallpapers**](https://4kwallpapers.com/) (**Photographer: [Louis Coyle](https://louie.co.nz/)**)
 * The aesthetic 5K background image is sourced from **[4K Wallpapers](https://4kwallpapers.com/)**.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
